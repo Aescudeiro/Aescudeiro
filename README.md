@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey! 👋
+I'm Afonso Escudeiro, a 22 years old junior developer from Portugal.
 
-<!--
-**Aescudeiro/Aescudeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Co-Founder at [@Auroch](https://github.com/Auroch-pt)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Java
+- ⚙️ React
+- 🔙💻 Node.js, Spring, Express.js, GraphQL
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo, PostgreSQL
+- 📁 Docker
+- 🟩 Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [ferngg#0956](./) on Discord
+- afonso_escudeiro@hotmail.com or afonso.s.escudeiro@auroch.pt
